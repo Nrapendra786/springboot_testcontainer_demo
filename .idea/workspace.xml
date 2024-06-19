@@ -4,42 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="854b7472-725d-4995-8ceb-c780c7d336dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="854b7472-725d-4995-8ceb-c780c7d336dc" name="Changes" comment="created a springboot testcontainer demo">
       <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/testcontainer/demo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/testcontainer/demo/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/testcontainer/demo/entity/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/testcontainer/demo/exceptions/TodoNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/testcontainer/demo/repository/TodoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/testcontainer/demo/web/TodoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/V0__initial_schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/chooser.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/vendor/todomvc-common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/collections/todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/models/todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/routers/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/vendor/backbone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/vendor/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/vendor/todomvc-common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/vendor/underscore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/views/app-view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/views/todo-view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/springboot/testcontainer/demo/ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/springboot/testcontainer/demo/TestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/springboot/testcontainer/demo/config/ContainersConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/springboot/testcontainer/demo/repository/TodoRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/springboot/testcontainer/demo/web/TodoControllerTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,6 +204,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718793233713</updated>
     </task>
+    <task id="LOCAL-00001" summary="created a springboot testcontainer demo">
+      <option name="closed" value="true" />
+      <created>1718814148849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718814148849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created a springboot testcontainer demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a springboot testcontainer demo" />
   </component>
 </project>
